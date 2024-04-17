@@ -1,0 +1,20 @@
+body {
+    background-color: #c5f3fa;
+    font-family: Arial, sans-serif;
+    margin-top: 50px;
+}
+h1 {
+    color: #181515;
+}
+h2{
+    color: #181515;
+}
+ul{
+    color: #181515;
+}
+p{color: #181515;
+}
+.content {
+    margin: 20px;
+}
+ol{color: #181515;}
